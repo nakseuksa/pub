@@ -1,2 +1,6 @@
 
 *.save
+
+*.sublime-project
+
+*.sublime-workspace
